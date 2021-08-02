@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2021-08-02 21:37+0000\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Author of the plugin
+msgid "Evgen"
+msgstr ""
+
+#. Name of the plugin
+msgid "Hotel rooms"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show blocks with hotel rooms information"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Special offer"
+msgstr ""
+
+msgid "Children count"
+msgstr ""
+
+msgid "Adult count"
+msgstr ""
+
+msgid "Departure"
+msgstr ""
+
+msgid "Arrival"
+msgstr ""
+
+msgid "star rate"
+msgstr ""
+
+msgid "night"
+msgstr ""
+
+msgid "Remove all data after plugin uninstall"
+msgstr ""
+
+msgid "Hotel room"
+msgstr ""
+
+msgid ""
+"For using plugin put shortcode [hotel_rooms] somewhere on the page. It is "
+"possible to use more than 1 shortcode on the page"
+msgstr ""
+
+msgid "Possible attributes"
+msgstr ""
+
+msgid "which rooms should be selected"
+msgstr ""
+
+msgid "count rooms in the list"
+msgstr ""
+
+msgid "order for the list"
+msgstr ""
+
+msgid "type order for the list"
+msgstr ""
+
+msgid "color for the data"
+msgstr ""
+
+msgid "title of the list"
+msgstr ""
+
+msgid "Room configuration"
+msgstr ""
+
+msgid "Hotel name"
+msgstr ""
+
+msgid "Hotel room name"
+msgstr ""
+
+msgid "Hotel rate"
+msgstr ""
+
+msgid "Number of adult"
+msgstr ""
+
+msgid "Number of child"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "Arrival date"
+msgstr ""
+
+msgid "Departure date"
+msgstr ""

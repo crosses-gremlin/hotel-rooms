@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"PO-Revision-Date: 2021-08-02 21:44+0000\n"
+"POT-Creation-Date: 2021-08-02 21:37+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: Hotel rooms\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Irina\n"
+"Language-Team: Русский\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.5.2; wp-5.8"
+
+#. Author of the plugin
+msgid "Evgen"
+msgstr ""
+
+#. Name of the plugin
+msgid "Hotel rooms"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show blocks with hotel rooms information"
+msgstr "Показывает блоки с данными отеля"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Special offer"
+msgstr "Специальное предложение"
+
+msgid "Children count"
+msgstr "Количество детей"
+
+msgid "Adult count"
+msgstr "Количество взрослых"
+
+msgid "Departure"
+msgstr "Отбытие"
+
+msgid "Arrival"
+msgstr "Прибытие"
+
+msgid "star rate"
+msgstr "рейтинг"
+
+msgid "night"
+msgstr "ночь"
+
+msgid "Remove all data after plugin uninstall"
+msgstr "Удалить все данные после удаления плагина"
+
+msgid "Hotel room"
+msgstr ""
+
+msgid ""
+"For using plugin put shortcode [hotel_rooms] somewhere on the page. It is "
+"possible to use more than 1 shortcode on the page"
+msgstr ""
+"Для использования плагина поместите шорткод [hotel_rooms] где-нибудь на "
+"странице. На странице можно использовать более 1 шорткода."
+
+msgid "Possible attributes"
+msgstr "Возможные атрибуты"
+
+msgid "which rooms should be selected"
+msgstr "Какие номера записей выводить"
+
+msgid "count rooms in the list"
+msgstr "Количество выводимых записей"
+
+msgid "order for the list"
+msgstr "Упорядочить по свойству"
+
+msgid "type order for the list"
+msgstr "Упорядочить по возрастанию\\убыванию"
+
+msgid "color for the data"
+msgstr "Цвет блоков"
+
+msgid "title of the list"
+msgstr "Заголовок списка"
+
+msgid "Room configuration"
+msgstr "Настройки плагина"
+
+msgid "Hotel name"
+msgstr "Название отеля"
+
+msgid "Hotel room name"
+msgstr "Название комнаты"
+
+msgid "Hotel rate"
+msgstr "Рейтинг отеля"
+
+msgid "Number of adult"
+msgstr "Количество взрослых"
+
+msgid "Number of child"
+msgstr "Количество детей"
+
+msgid "Cost"
+msgstr "Стоимость"
+
+msgid "Arrival date"
+msgstr "Дата прибытия"
+
+msgid "Departure date"
+msgstr "Дата отбытия"
